@@ -3,7 +3,7 @@
 ## About Me 👨‍💻
 
 - 💻 Passionate about programming, especially data structures, object-oriented programming, and application development.
-- 🚀 Currently studying Information Systems Engineering and continuing to strengthen my skills in software development and databases.
+- 🚀 Currently studying Information Systems at the Universidad Nacional (UNA) and continuing to strengthen my skills in software development and databases.
 - 🧠 Interested in artificial intelligence and new technologies.
 - 🤝 I enjoy teamwork, sharing ideas, and learning through collaborative projects.
 - 🔧 I like finding solutions to real-world problems through technology and software development.
